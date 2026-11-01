@@ -15,10 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ortho-earth.com/"><b>www.ortho-earth.com</b></a> ·
-  <a href="https://github.com/kenjiyoshidahome2026-bit/ortho-earth">Source on GitHub</a> ·
-  <a href="https://www.ortho-earth.com/docs/introduction">Docs</a> ·
-  <a href="https://www.ortho-earth.com/maplibre/">MapLibre examples</a>
+  <a href="https://www.ortho-earth.com/"><b>www.ortho-earth.com</b></a>
 </p>
 
 ### Built with Ortho Earth
