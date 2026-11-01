@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>maplibre + cesium − mercator = ortho-earth</b><br>
+  <b>Ortho Earth = maplibre × cesium − mercator + α</b><br>
   I build <b>Ortho Earth</b> — a 3D globe map engine that runs entirely in your browser.<br>
   WebGPU · MapLibre GL JS compatible · 3D Tiles · terrain at true scale · no server, no account.
 </p>
