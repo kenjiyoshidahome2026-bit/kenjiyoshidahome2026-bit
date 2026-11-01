@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="right" width="240" src="himekuri/today.svg" alt="Today's page of himekuri, a Japanese tear-off calendar">
+<img align="right" width="240" src="himekuri/today.svg?d=2026-11-02" alt="Today's page of himekuri, a Japanese tear-off calendar">
 
 ### The Ortho Earth family
 
