@@ -18,10 +18,6 @@
   <a href="https://www.ortho-earth.com/"><b>www.ortho-earth.com</b></a>
 </p>
 
-### Built with Ortho Earth
-
-Live demos — click to open. Everything runs in your browser.
-
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/hex"><img src="demos/hex.webp" alt="World population in hexagons"></a><br><b><a href="https://www.ortho-earth.com/globe/hex">World population in hexagons</a></b></td>
