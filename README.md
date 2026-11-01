@@ -22,8 +22,3 @@
 - **[ortho-world](https://github.com/kenjiyoshidahome2026-bit/ortho-world)** — 262 countries in 26 languages, drop into a `<div>`.
 - **[himekuri](https://github.com/kenjiyoshidahome2026-bit/himekuri)** — the calendar on the right. Lunisolar date, rokuyō, 72 pentads. It tears off one page every midnight (JST).
 - **[plateau-bench](https://github.com/kenjiyoshidahome2026-bit/plateau-bench)** — PLATEAU 3D Tiles rendering benchmark, raw results open.
-
-<br clear="right">
-
-**About me** — Semiconductor engineer 30 years, Web engineer 15 years, loves wife and dog, and drives ALPINA D3S touring & Tesla. Yokohama.
-[@KenjiYoshida168](https://x.com/KenjiYoshida168)
