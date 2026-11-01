@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ortho-earth.com/"><img src="brand/top.jpg" width="760" alt="The top page of www.ortho-earth.com: Equal to all, fair to the Earth"></a>
-</p>
-
-<p align="center">
   <a href="https://www.ortho-earth.com/"><b>www.ortho-earth.com</b></a> ·
   <a href="https://github.com/kenjiyoshidahome2026-bit/ortho-earth">Source on GitHub</a> ·
   <a href="https://www.ortho-earth.com/docs/introduction">Docs</a> ·
