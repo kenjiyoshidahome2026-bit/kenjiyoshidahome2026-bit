@@ -1,10 +1,9 @@
-<h1 align="center">
+<p align="center">
   <a href="https://www.ortho-earth.com/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brand/logo-fff.svg">
-    <img src="brand/logo-000.svg" width="44" height="44" alt="Ortho Earth logo">
-  </picture></a><br>
-  Ortho Earth
-</h1>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/wordmark-fff.svg">
+    <img src="brand/wordmark-000.svg" width="560" alt="Ortho Earth">
+  </picture></a>
+</p>
 
 <p align="center">
   <b>maplibre + cesium − mercator = ortho-earth</b><br>
