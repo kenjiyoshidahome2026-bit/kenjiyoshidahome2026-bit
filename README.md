@@ -1,10 +1,31 @@
-<h3 align="center">Equal to all, fair to the Earth</h3>
+<h1 align="center">
+  <a href="https://www.ortho-earth.com/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/logo-fff.svg">
+    <img src="brand/logo-000.svg" width="44" height="44" alt="Ortho Earth logo">
+  </picture></a><br>
+  Ortho Earth
+</h1>
+
 <p align="center">
-  A 3D globe that runs in your browser. No server, no account.<br>
-  <a href="https://www.ortho-earth.com/">www.ortho-earth.com</a>
+  <b>maplibre + cesium − mercator = ortho-earth</b><br>
+  I build <b>Ortho Earth</b> — a 3D globe map engine that runs entirely in your browser.<br>
+  WebGPU · MapLibre GL JS compatible · 3D Tiles · terrain at true scale · no server, no account.
 </p>
 
-**Live demos** — click to open. Everything runs in the browser.
+<p align="center">
+  <a href="https://www.ortho-earth.com/"><img src="brand/top.jpg" width="760" alt="The top page of www.ortho-earth.com: Equal to all, fair to the Earth"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.ortho-earth.com/"><b>www.ortho-earth.com</b></a> ·
+  <a href="https://github.com/kenjiyoshidahome2026-bit/ortho-earth">Source on GitHub</a> ·
+  <a href="https://www.ortho-earth.com/docs/introduction">Docs</a> ·
+  <a href="https://www.ortho-earth.com/maplibre/">MapLibre examples</a>
+</p>
+
+### Built with Ortho Earth
+
+Live demos — click to open. Everything runs in your browser.
 
 <table>
 <tr>
@@ -35,7 +56,7 @@
 
 <img align="right" width="240" src="himekuri/today.svg" alt="Today's page of himekuri, a Japanese tear-off calendar">
 
-**What I make**
+### The Ortho Earth family
 
 - **[ortho-earth](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)** — 3D globe map engine. WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale. Starts with about 380 KB.
 - **[geopbf](https://github.com/kenjiyoshidahome2026-bit/geopbf)** — carry geometry as geometry. Compact binary for features + GPU-readable topology.
