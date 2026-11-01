@@ -11,7 +11,7 @@
 
 <p align="center">
   A 3D globe map engine that runs entirely in your browser.<br>
-  WebGPU · MapLibre GL JS compatible · 3D Tiles · terrain at true scale · no server, no account.
+  WebGPU · no server, no account.
 </p>
 
 <p align="center">
