@@ -41,8 +41,6 @@
 </tr>
 </table>
 
-<p align="right"><a href="https://www.ortho-earth.com/">34 demos in all →</a></p>
-
 <br>
 
 <img align="right" width="240" src="himekuri/today.svg" alt="Today's page of himekuri, a Japanese tear-off calendar">
