@@ -15,8 +15,10 @@ const svg = 日カレンダー([y, m, d])
 const ymd = `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
 const file = `himekuri/${ymd}.svg`;
 mkdirSync("himekuri", { recursive: true });
-for (const f of readdirSync("himekuri")) if (f.endsWith(".svg") && `himekuri/${f}` !== file) rmSync(`himekuri/${f}`);
+for (const f of readdirSync("himekuri")) if (/^\d{4}-\d\d-\d\d\.svg$/.test(f) && `himekuri/${f}` !== file) rmSync(`himekuri/${f}`);
 writeFileSync(file, svg + "\n");
+// GitHub が前の版の README を覚えている間は today.svg を見に来るので、同じ絵を置いておく
+writeFileSync("himekuri/today.svg", svg + "\n");
 const readme = readFileSync("README.md", "utf8");
 writeFileSync("README.md", readme.replace(/src="himekuri\/[^"]+\.svg[^"]*"/, `src="${file}"`));
 console.log(`${file} ← ${y}-${m}-${d}`);
