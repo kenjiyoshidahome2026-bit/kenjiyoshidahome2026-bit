@@ -1,12 +1,35 @@
-<!-- HERO: GitHub の編集画面で hero/globe-to-tokyo.mp4 をこの行へドラッグすると
-     https://github.com/user-attachments/assets/… の URL が入り、自動再生の動画になる。
-     この注釈ごと、その URL 一行に置き換える。 -->
-
 <h3 align="center">Equal to all, fair to the Earth</h3>
 <p align="center">
   A 3D globe that runs in your browser. No server, no account.<br>
   <a href="https://www.ortho-earth.com/">www.ortho-earth.com</a>
 </p>
+
+**Live demos** — click to open. Everything runs in the browser.
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/hex"><img src="demos/hex.webp" alt="World population in hexagons"></a><br><b><a href="https://www.ortho-earth.com/globe/hex">World population in hexagons</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/quakes/"><img src="demos/quakes.webp" alt="World earthquakes"></a><br><b><a href="https://www.ortho-earth.com/globe/quakes/">World earthquakes</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/arcs"><img src="demos/arcs.webp" alt="The shortest way is an arc"></a><br><b><a href="https://www.ortho-earth.com/globe/arcs">The shortest way is an arc</a></b></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/japan/models"><img src="demos/models.webp" alt="Tokyo in 3D"></a><br><b><a href="https://www.ortho-earth.com/japan/models">Tokyo in 3D</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/nl/"><img src="demos/nl.webp" alt="The Netherlands in 3D"></a><br><b><a href="https://www.ortho-earth.com/nl/">The Netherlands in 3D</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/splat"><img src="demos/splat.webp" alt="Gaussian splats"></a><br><b><a href="https://www.ortho-earth.com/globe/splat">Gaussian splats</a></b></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/japan/?g=showcase/pop-density-2020.geopbf#7.6/35.3/139.1/62t/-25r"><img src="demos/pop-density.webp" alt="Statistics in 3D"></a><br><b><a href="https://www.ortho-earth.com/japan/?g=showcase/pop-density-2020.geopbf#7.6/35.3/139.1/62t/-25r">Statistics in 3D</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/japan/?iiif=/japan/showcase/edo-nihonbashi-1850.iiif.json#15.7/35.6895/139.778"><img src="demos/edo-map.webp" alt="Edo, 1850"></a><br><b><a href="https://www.ortho-earth.com/japan/?iiif=/japan/showcase/edo-nihonbashi-1850.iiif.json#15.7/35.6895/139.778">Edo, 1850</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/japan/tellus"><img src="demos/tellus.webp" alt="Satellite images (COG)"></a><br><b><a href="https://www.ortho-earth.com/japan/tellus">Satellite images (COG)</a></b></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/globe/physical"><img src="demos/physical.webp" alt="Landforms of the World"></a><br><b><a href="https://www.ortho-earth.com/globe/physical">Landforms of the World</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/quiz/"><img src="demos/quiz.webp" alt="World quiz"></a><br><b><a href="https://www.ortho-earth.com/quiz/">World quiz</a></b></td>
+<td width="33%" valign="top"><a href="https://www.ortho-earth.com/maplibre/"><img src="demos/maplibre.webp" alt="139 MapLibre examples"></a><br><b><a href="https://www.ortho-earth.com/maplibre/">139 MapLibre examples</a></b></td>
+</tr>
+</table>
+
+<p align="right"><a href="https://www.ortho-earth.com/">34 demos in all →</a></p>
 
 <br>
 
