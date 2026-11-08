@@ -6,13 +6,13 @@
 				<tspan>November</tspan><tspan> </tspan><tspan>2026</tspan>
 			</text>
 			<g transform="translate(50,43)">
-				<text font-size="55" stroke="#fff" fill="red" transform="scale(1.1 1)" stroke-width="0.2" font-weight="700" dominant-baseline="middle">8</text>
+				<text font-size="55" stroke="#fff" fill="black" transform="scale(1.1 1)" stroke-width="0.2" font-weight="700" dominant-baseline="middle">9</text>
 			</g>
 			<text font-size="5" font-weight="700" transform="translate(50,68)">
 				<tspan fill="#a22"></tspan> <tspan></tspan>
 			</text>
-			<text font-size="8" font-weight="700"><tspan fill="red" x="10 10 10" y="10 18 26">日曜日</tspan></text>
-			<text font-size="4" fill="red" transform="translate(10,33)">SUN</text>
+			<text font-size="8" font-weight="700"><tspan fill="black" x="10 10 10" y="10 18 26">月曜日</tspan></text>
+			<text font-size="4" fill="black" transform="translate(10,33)">MON</text>
 			<text font-size="8" font-weight="700"><tspan x="90 90" y="10 18">令和</tspan></text>
 			<text transform="translate(90,28)" font-size="9" font-weight="700">8</text>
 			<text transform="translate(90,36)" font-size="8" font-weight="700">年</text>
@@ -22,31 +22,31 @@
 			<text transform="translate(77,70)" font-size="3">今日</text>
 			<g transform="translate(85,65) scale(0.1)"><svg viewBox="-51 -51 102 102">
 		<circle r="50" fill="#400"/>
-		<path d="M 0 -50 A 50 50 0 0 0 0 50 A 47.37196567973892 50 0 0 1 0 -50 Z" fill="#ff8"/>
+		<path d="M 0 -50 A 50 50 0 0 1 0 50 A 50 50 0 0 0 0 -50 Z" fill="#ff8"/>
 		<circle r="50" fill="none" stroke="#000" stroke-width="1"/>
 	</svg></g>
-			<g transform="translate(35,60) scale(0.3)"><svg viewBox="0 0 100 70"><g dominant-baseline="middle"><text font-size="8" fill="red" x="12.5" y="12">日</text><text font-size="8" fill="black" x="25" y="12">月</text><text font-size="8" fill="black" x="37.5" y="12">火</text><text font-size="8" fill="black" x="50" y="12">水</text><text font-size="8" fill="black" x="62.5" y="12">木</text><text font-size="8" fill="black" x="75" y="12">金</text><text font-size="8" fill="blue" x="87.5" y="12">土</text><text font-size="8" x="12.5" y="22" fill="red">1</text><text font-size="8" x="25" y="22" fill="black">2</text><text font-size="8" x="37.5" y="22" fill="red" data-tip="11月3日&#10;文化の日">3</text><text font-size="8" x="50" y="22" fill="black">4</text><text font-size="8" x="62.5" y="22" fill="black">5</text><text font-size="8" x="75" y="22" fill="black">6</text><text font-size="8" x="87.5" y="22" fill="blue">7</text><circle cx="12.5" cy="31.5" r="5" fill="#fee" stroke="#f40" stroke-width="0.5"/><rect x="7.5" y="26.5" width="10" height="10" fill="#ccc" stroke="#444" stroke-width="0.5"/><text font-size="8" x="12.5" y="32" fill="red">8</text><text font-size="8" x="25" y="32" fill="black">9</text><text font-size="8" x="37.5" y="32" fill="black">10</text><text font-size="8" x="50" y="32" fill="black">11</text><text font-size="8" x="62.5" y="32" fill="black">12</text><text font-size="8" x="75" y="32" fill="black">13</text><text font-size="8" x="87.5" y="32" fill="blue">14</text><text font-size="8" x="12.5" y="42" fill="red">15</text><text font-size="8" x="25" y="42" fill="black">16</text><text font-size="8" x="37.5" y="42" fill="black">17</text><text font-size="8" x="50" y="42" fill="black">18</text><text font-size="8" x="62.5" y="42" fill="black">19</text><text font-size="8" x="75" y="42" fill="black">20</text><text font-size="8" x="87.5" y="42" fill="blue">21</text><text font-size="8" x="12.5" y="52" fill="red">22</text><text font-size="8" x="25" y="52" fill="red" data-tip="11月23日&#10;勤労感謝の日">23</text><text font-size="8" x="37.5" y="52" fill="black">24</text><text font-size="8" x="50" y="52" fill="black">25</text><text font-size="8" x="62.5" y="52" fill="black">26</text><text font-size="8" x="75" y="52" fill="black">27</text><text font-size="8" x="87.5" y="52" fill="blue">28</text><text font-size="8" x="12.5" y="62" fill="red">29</text><text font-size="8" x="25" y="62" fill="black">30</text></g></svg></g>
+			<g transform="translate(35,60) scale(0.3)"><svg viewBox="0 0 100 70"><g dominant-baseline="middle"><text font-size="8" fill="red" x="12.5" y="12">日</text><text font-size="8" fill="black" x="25" y="12">月</text><text font-size="8" fill="black" x="37.5" y="12">火</text><text font-size="8" fill="black" x="50" y="12">水</text><text font-size="8" fill="black" x="62.5" y="12">木</text><text font-size="8" fill="black" x="75" y="12">金</text><text font-size="8" fill="blue" x="87.5" y="12">土</text><text font-size="8" x="12.5" y="22" fill="red">1</text><text font-size="8" x="25" y="22" fill="black">2</text><text font-size="8" x="37.5" y="22" fill="red" data-tip="11月3日&#10;文化の日">3</text><text font-size="8" x="50" y="22" fill="black">4</text><text font-size="8" x="62.5" y="22" fill="black">5</text><text font-size="8" x="75" y="22" fill="black">6</text><text font-size="8" x="87.5" y="22" fill="blue">7</text><text font-size="8" x="12.5" y="32" fill="red">8</text><circle cx="25" cy="31.5" r="5" fill="#fee" stroke="#f40" stroke-width="0.5"/><rect x="20" y="26.5" width="10" height="10" fill="#ccc" stroke="#444" stroke-width="0.5"/><text font-size="8" x="25" y="32" fill="black">9</text><text font-size="8" x="37.5" y="32" fill="black">10</text><text font-size="8" x="50" y="32" fill="black">11</text><text font-size="8" x="62.5" y="32" fill="black">12</text><text font-size="8" x="75" y="32" fill="black">13</text><text font-size="8" x="87.5" y="32" fill="blue">14</text><text font-size="8" x="12.5" y="42" fill="red">15</text><text font-size="8" x="25" y="42" fill="black">16</text><text font-size="8" x="37.5" y="42" fill="black">17</text><text font-size="8" x="50" y="42" fill="black">18</text><text font-size="8" x="62.5" y="42" fill="black">19</text><text font-size="8" x="75" y="42" fill="black">20</text><text font-size="8" x="87.5" y="42" fill="blue">21</text><text font-size="8" x="12.5" y="52" fill="red">22</text><text font-size="8" x="25" y="52" fill="red" data-tip="11月23日&#10;勤労感謝の日">23</text><text font-size="8" x="37.5" y="52" fill="black">24</text><text font-size="8" x="50" y="52" fill="black">25</text><text font-size="8" x="62.5" y="52" fill="black">26</text><text font-size="8" x="75" y="52" fill="black">27</text><text font-size="8" x="87.5" y="52" fill="blue">28</text><text font-size="8" x="12.5" y="62" fill="red">29</text><text font-size="8" x="25" y="62" fill="black">30</text></g></svg></g>
 			<text font-size="4" transform="translate(7,40)"><tspan x="0 0" y="0 4">旧暦</tspan></text>
-			<text font-size="4" transform="translate(7,50)"><tspan x="0 0 0 0 0 0 0" dy="1 5 5 5 5">九月廿九日</tspan></text>
-			<text font-size="4" transform="translate(13,40)" data-tip="先勝&#10;「先んずれば即ち勝つ」万事に急ぐことが良いとされる。午前中は吉、午後二時より六時までは凶。"><tspan x="0 0" dy="0 4">先勝</tspan></text>
-			<text font-size="4" transform="translate(13,50)"><tspan x="0 0" dy="0 4">丙戌</tspan></text>
-			<text font-size="4" transform="translate(13,60)"><tspan x="0 0 0 0" dy="0 4 4 4" data-tip="二黒土星&#10;【育成・堅実】大地のように万物を育む、母性や堅実さを表す星。地道な努力や、基礎固め、家族との時間を大切にすると良い日です。">二黒土星</tspan></text>
-			<text font-size="2.4" transform="translate(18,45)"><tspan x="0 0 0 0 0 0 0 0" dy="0 2.5 2.5 2.5 2.5 2.5 2.5 2.5">ひのえ・いぬ</tspan></text>
+			<text font-size="4" transform="translate(7,50)"><tspan x="0 0 0 0 0 0 0" dy="1 6 8 6">十月一日</tspan></text>
+			<text font-size="4" transform="translate(13,40)" data-tip="仏滅&#10;六曜の中で最も凶の日とされ、婚礼などの祝儀を忌む習慣がある。何事も遠慮する日、病めば長引く、仏事は吉"><tspan x="0 0" dy="0 4">仏滅</tspan></text>
+			<text font-size="4" transform="translate(13,50)"><tspan x="0 0" dy="0 4">丁亥</tspan></text>
+			<text font-size="4" transform="translate(13,60)"><tspan x="0 0 0 0" dy="0 4 4 4" data-tip="一白水星&#10;【始まり・柔軟勢】水のように形を変え、困難を乗り越える柔軟性を持つ星。人間関係を深め、新しいことを始めるのに適した日です。">一白水星</tspan></text>
+			<text font-size="2.4" transform="translate(18,45)"><tspan x="0 0 0 0 0 0 0 0" dy="0 2.5 2.5 2.5 2.5 2.5 2.5 2.5">ひのと・い</tspan></text>
 			<text font-size="2.2" transform="translate(8,80)">十二直</text>
 			<text font-size="2.2" transform="translate(18,80)">二十八宿</text>
 			<text font-size="2.2" transform="translate(28,80)">二十七宿</text>
-			<text font-size="5" font-weight="700" transform="translate(8,86)" data-tip="十二直 閉（とづ）&#10;閉じ込める日&#10;金銭出納・建墓は吉。棟上げ・結婚・開店は凶">閉</text>
-			<text font-size="5" font-weight="700" transform="translate(18,86)" data-tip="二十八宿 星（せい）&#10;うみへび座α(ほとおり星)の宿に入る。&#10;乗馬始め・便所改造に吉。祝い事・種まきに凶">星</text>
-			<text font-size="5" font-weight="700" transform="translate(28,86)" data-tip="二十七宿 房（ぼう）&#10;さそり座π(そい星)の宿に入る。&#10;髪切り・結婚・旅行・移転・開店・祭祀に吉">房</text>
-			<text font-size="2.2" transform="translate(8,90)">とづ</text>
-			<text font-size="2.2" transform="translate(18,90)">せい</text>
-			<text font-size="2.2" transform="translate(28,90)">ぼう</text>
+			<text font-size="5" font-weight="700" transform="translate(8,86)" data-tip="十二直 建（たつ）&#10;万物を建て生じる日&#10;よろず大吉の日。但し動土・蔵開きは凶">建</text>
+			<text font-size="5" font-weight="700" transform="translate(18,86)" data-tip="二十八宿 張（ちょう）&#10;うみへび座υ1(ちりこ星)の宿に入る。&#10;就職・見合い・神仏祈願・祝い事に吉">張</text>
+			<text font-size="5" font-weight="700" transform="translate(28,86)" data-tip="二十七宿 心（しん）&#10;さそり座σ(なかご星)の宿に入る。&#10;祭祀・移転・旅行・新規事に吉。造作・結婚に凶。盗難注意">心</text>
+			<text font-size="2.2" transform="translate(8,90)">たつ</text>
+			<text font-size="2.2" transform="translate(18,90)">ちょう</text>
+			<text font-size="2.2" transform="translate(28,90)">しん</text>
 			<text font-size="3" transform="translate(82,78)">
-				<tspan data-tip="立冬&#10;冬の気立ち初めていよいよ冷ゆれば也&#10;この日から立春の前日までが冬。日は短くなり時雨が降る季節。北国や高山からは初雪の知らせも届き、関東では空っ風が吹く頃です。">立冬</tspan>2日目
+				<tspan data-tip="立冬&#10;冬の気立ち初めていよいよ冷ゆれば也&#10;この日から立春の前日までが冬。日は短くなり時雨が降る季節。北国や高山からは初雪の知らせも届き、関東では空っ風が吹く頃です。">立冬</tspan>3日目
 				<tspan data-tip="七十二候 山茶始開（つばきはじめてひらく）&#10;サザンカの花が咲き始める">[ 山茶始開 ]</tspan></text>
-			<text font-size="3" transform="translate(82,83)"><tspan data-tip="小雪&#10;冷ゆるが故に雨も雪となりてくだるがゆへ也&#10;陽射しは弱まり、冷え込みが厳しくなる季節。木々の葉は落ち、平地にも初雪が舞い始める頃です。">小雪</tspan>まであと14日</text>
-			<text font-size="3" transform="translate(82,88)">(太陽黄経 225.72°・正午)</text>
+			<text font-size="3" transform="translate(82,83)"><tspan data-tip="小雪&#10;冷ゆるが故に雨も雪となりてくだるがゆへ也&#10;陽射しは弱まり、冷え込みが厳しくなる季節。木々の葉は落ち、平地にも初雪が舞い始める頃です。">小雪</tspan>まであと13日</text>
+			<text font-size="3" transform="translate(82,88)">(太陽黄経 226.72°・正午)</text>
 			<text font-size="3.2" font-weight="700" transform="translate(50,95)">
-				<tspan data-tip="一粒万倍日&#10;一粒の籾が万倍にも実る稲穂になるという意味である。何事を始めるにも良い日とされ、仕事始め、開店、種まき、お金を出すことに吉。但し、借金は苦労の種を蒔くので凶。">一粒万倍日</tspan>
+				<tspan data-tip="十方暮&#10;天地の気が相剋して、万事うまく行かない凶日とされている。労多くして功の少ない日。">十方暮</tspan> <tspan data-tip="三隣亡&#10;建築関係の凶日とされ、棟上げや土起こしなど建築に関することは一切忌むべき日とされた。高い所へ登るとけがをする。">三隣亡</tspan>
 			</text>        </g>
 	</svg>
